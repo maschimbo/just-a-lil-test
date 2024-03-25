@@ -1,11 +1,11 @@
 {
   "name": "My Theme",
-  "version": "1.2",
-  "description": "Just a test",
+  "version": "1.0",
+  "description": "Essence",
   "authors": [
     {
       "name": "yokitsu",
-      "id": "461299396844191745"
+      "id": "653663134766333955"
     }
   ],
   "semanticColors": {
@@ -50,7 +50,7 @@
   },
   "background": {
     "blur": 0.6,
-    "url": "https://media.discordapp.net/attachments/751449033586769970/1221802519387308062/qJETMcPo.jpg?ex=6613e744&is=66017244&hm=e93b7aec79880cac3ebfda9b9d67050cdf985a9a5a3ba2d6a616a7346f181ce2&",
+    "url": "https://media.discordapp.net/attachments/751449033586769970/1221834755012689972/J4XJ274e.jpg?ex=6614054a&is=6601904a&hm=0749b80f85ee94350cfec6ff6b05240a392ac0187617b90423301def16a16f0f&",
     "alpha": 1
   },
   "spec": 2
